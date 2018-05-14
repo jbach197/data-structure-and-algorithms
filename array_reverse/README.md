@@ -10,3 +10,6 @@ Examples:
 
 ## Solution
 ![whiteboard image](/assets/array_reverse.jpg)
+
+## Credits
+Collobrated with Timea.
