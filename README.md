@@ -67,3 +67,18 @@ head -> [1] -> [3] -> [2] -> X	  3, 5	  head -> [1] -> [3] -> [5] -> [2] -> X
 
 ## Credits
 None
+
+# Linked List kth From End
+
+## Challenge
+Write a method for the Linked List class which takes a number, k, as a parameter. Return the node that is k from the end of the linked list. You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges. ​
+
+Examples:
+Input                             Arg       OutPut
+head -> A -> B -> C -> D -> X     2         B
+
+## Solution
+![whiteboard image](/assets/ll_kth_from_end.jpg)
+
+## Credits
+Collobrated with Ovi and Timea.
