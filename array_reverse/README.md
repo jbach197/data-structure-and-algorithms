@@ -9,7 +9,7 @@ Examples:
 [89, 2354, 3546, 23, 10, -923, 823, -12] -->	[-12, 823, -923, 10, 23, 3546, 2354, 89]
 
 ## Solution
-![whiteboard image](/assets/array_reverse.jpg)
+![whiteboard image](array_reverse.jpg)
 
 ## Credits
 Collobrated with Timea.
